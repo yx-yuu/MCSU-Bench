@@ -7,8 +7,7 @@ the Source, required Propagation steps, Sink, and the context needed to
 interpret them.
 
 The repository contains the construction pipeline, canonical reference files,
-frozen experiment artifacts, paper-generation scripts, and the anonymous AAAI
-2027 submission.
+frozen experiment artifacts, paper-generation scripts.
 
 ## What This Repository Supports
 
